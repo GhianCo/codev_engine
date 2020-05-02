@@ -1,0 +1,12 @@
+{
+  "name": "codevengine/tutorial_01_php_spout",
+  "authors": [
+    {
+      "name": "DesarrolladorBackend",
+      "email": "developer@servidor.com"
+    }
+  ],
+  "require": {
+    "box/spout": "^2.7"
+  }
+}
